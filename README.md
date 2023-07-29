@@ -55,8 +55,7 @@ npm install
 To use the "Search Anime" application:
 
 - Enter relevant keywords in the search bar to search for anime titles.
-![alt text][pic1]
-[pic1]: https://github.com/Little-BlackCat/search-anime/blob/main/src/assets/search.png,"search"
+![alt text](https://github.com/Little-BlackCat/search-anime/blob/main/src/assets/search.png,"search")
 - Click 'Search' to view detailed information about that anime.
 ![alt text][pic2]
 
